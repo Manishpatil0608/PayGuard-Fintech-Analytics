@@ -80,12 +80,3 @@ against a local SQL Server instance with the database `Project6_Fintech` created
 - USA - 20% of customers
 
 ---
-
-## Contact
-
-For the full 500,000 row dataset contact:
-📧 thusisanelelele@gmail.com
-
----
-
-*Part of the [Fintech Revenue Analytics Project](../README.md) by Sanele Siyabonga Thusi*
