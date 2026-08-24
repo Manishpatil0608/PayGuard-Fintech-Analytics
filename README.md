@@ -150,10 +150,3 @@ Project 6-Fintech Revenue Analytics/
 │   └── Model_View.png
 └── README.md
 ```
-
-## Original Project & Attribution
-This project, PayGuard Analytics, was adapted from the original Fintech Revenue Analytics project created by Sanele Siyabonga Thusi.
-- **Original Repository**: [Data-Analysis-BI---Portfolio](https://github.com/STCybersec/Data-Analysis-BI---Portfolio)
-- **Original Author**: Sanele Siyabonga Thusi
-
-This version contains my own adaptations, documentation structuring, and analysis improvements to showcase advanced portfolio practices.
