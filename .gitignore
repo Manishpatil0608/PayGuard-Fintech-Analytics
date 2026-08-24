@@ -1,0 +1,21 @@
+# Power BI
+*.pbix.zip
+*~*.pbix
+
+# Datasets / Large files
+# Assuming small datasets are kept (Customers, Locations, etc). 
+# If there are large generated ones, they should be excluded.
+# fact_transactions.csv was noted as exceeding 25MB and not included, so let's ignore it specifically in case it's generated.
+fact_transactions.csv
+Transactions.csv
+
+# Windows OS files
+Thumbs.db
+Desktop.ini
+
+# Python / Scripts
+__pycache__/
+*.pyc
+.env
+.venv/
+venv/
